@@ -1,5 +1,11 @@
 package Students;
 
-public class Shubhada {
+public class Shubhada 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("project");
+		
+	}
 
 }
